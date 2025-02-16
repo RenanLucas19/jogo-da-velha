@@ -4,22 +4,22 @@
   "display": "standalone",
   "name": "jogo-da-velha",
   "orientation": "any",
-  "scope": "/",
+  "scope": "https://jogo-da-velha.renan.grupo-01.sd.ufersa.dev.br/",
   "short_name": "jogo-da-velha",
-  "start_url": "index.html",
+  "start_url": "/index.html",
   "theme_color": "#4f5963",
   "id": "br.dev.ufersa.sd.grupo-01.renan.jogo-da-velha",
   "icons": [
     {
-      "src": "vite.svg",
-      "type": "image/svg",
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
       "sizes": "512x512"
     }
   ],
   "screenshots": [
     {
-      "src": "vite.svg",
-      "type": "image/svg",
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
       "sizes": "512x512"
     }
   ]
