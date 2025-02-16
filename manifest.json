@@ -11,15 +11,15 @@
   "id": "br.dev.ufersa.sd.grupo-01.renan.jogo-da-velha",
   "icons": [
     {
-      "src": "/vite.svg",
-      "type": "image/svg+xml",
+      "src": "vite.svg",
+      "type": "image/svg+",
       "sizes": "512x512"
     }
   ],
   "screenshots": [
     {
-      "src": "/vite.svg",
-      "type": "image/svg+xml",
+      "src": "vite.svg",
+      "type": "image/svg",
       "sizes": "512x512"
     }
   ]
